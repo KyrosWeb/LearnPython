@@ -11,9 +11,15 @@ This script covers the basics of Python including:
 - Functions
 - Classes
 
-## How to Run
+# Python Variables and Data Types
 
-You can run the script by using the following command in your terminal:
+This script demonstrates the use of various variables and data types in Python. It includes:
 
-```bash
-python3 python_fundamentals.py
+- Integer
+- Floating point
+- String
+- Boolean
+- List
+- Tuple
+- Dictionary
+
