@@ -43,3 +43,20 @@ You can run the script by using the following command in your terminal:
 
 ```bash
 python3 mathbasic.py
+```
+
+# Python Methods
+
+This script demonstrates the importance of methods in Python. 
+
+Methods allow us to write a piece of code once and reuse it, which makes our code more organized and easier to maintain. 
+
+In this script, we create a method `greet_user` that greets a user. We then use this method to greet three different users.
+
+## How to Run
+
+You can run the script by using the following command in your terminal:
+
+```bash
+python3 methods.py
+```
