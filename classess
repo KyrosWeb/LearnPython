@@ -1,0 +1,36 @@
+# Python Classes
+
+# Without classes, we would have to define separate variables and methods for each object
+# For example, if we want to create two cars, we would have to do something like this:
+
+car1_name = "Car1"
+car1_color = "Red"
+def car1_start():
+    print(f"{car1_name} is starting.")
+
+car2_name = "Car2"
+car2_color = "Blue"
+def car2_start():
+    print(f"{car2_name} is starting.")
+
+car1_start()
+car2_start()
+
+# With classes, we can define a blueprint for a car and then create as many cars as we want
+# Here's a class that defines a car:
+
+class Car:
+    def __init__(self, name, color):
+        self.name = name
+        self.color = color
+
+    def start(self):
+        print(f"{self.name} is starting.")
+
+# Now we can use this class to create any car:
+
+car1 = Car("Car1", "Red")
+car2 = Car("Car2", "Blue")
+
+car1.start()
+car2.start()
