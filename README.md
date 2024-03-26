@@ -60,3 +60,19 @@ You can run the script by using the following command in your terminal:
 ```bash
 python3 methods.py
 ```
+
+# Python Classes
+
+This script demonstrates the importance of classes in Python. 
+
+Classes allow us to define a blueprint for an object, which we can then use to create as many objects as we want. This makes our code more organized and easier to maintain.
+
+In this script, we create a `Car` class with a `name`, a `color`, and a `start` method. We then use this class to create two cars and start them.
+
+## How to Run
+
+You can run the script by using the following command in your terminal:
+
+```bash
+python3 classes.py
+```
