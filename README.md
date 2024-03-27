@@ -76,3 +76,19 @@ You can run the script by using the following command in your terminal:
 ```bash
 python3 classes.py
 ```
+
+# Python Loops
+
+This script demonstrates the different types of loops in Python. It includes:
+
+- For loop
+- While loop
+- Nested loops
+- Loop control statements (break and continue)
+
+## How to Run
+
+You can run the script by using the following command in your terminal:
+
+```bash
+python3 loops.py
